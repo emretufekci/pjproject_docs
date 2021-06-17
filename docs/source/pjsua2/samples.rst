@@ -20,6 +20,10 @@ Android
 ----------------
 Please see https://trac.pjsip.org/repos/wiki/Getting-Started/Android#pjsua2 for Android sample application.
 
+iOS
+----------------
+Please see https://trac.pjsip.org/repos/wiki/Getting-Started/iPhone for iOS sample application. Swift sample application available in``pjsip-apps/src/pjsua2/ios-swift-pjsua2``
+
 Java
 ----------------
 There is a Hello World type of application located in ``pjsip-apps/src/swig/java``. This requires the Java SWIG module. After building the SWIG module, run ``make test`` from this directory to run the app.
